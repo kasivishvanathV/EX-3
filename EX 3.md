@@ -4,7 +4,7 @@
 
 
 # AIM :
-To write a python program to perform sliding window protoco
+To write a python program to perform sliding window protocoL
 
 
 # ALGORITHM :
